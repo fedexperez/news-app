@@ -1,6 +1,16 @@
 # News App
 
-The objective of developing this application is to deal with some specific topics which would be the Animate_do library and many of its functions, such as how to set different animations and how to repeat animations, and more.
+This application aims to use Provider as a state handler, but the following topics are also covered:
+Provider, ChangeNotifierProvider and Multiprovider
+Http
+NewsAPI
+PageView
+PageControllers
+Maps
+Lists
+Custom Templates
+Maintain application state
+And more
 
 ## Getting Started
 
@@ -10,5 +20,5 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [Animate Do Package](https://pub.dev/packages/animate_do)
+- [Provider Package](https://pub.dev/packages/provider)
 - [Online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
